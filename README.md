@@ -12,7 +12,7 @@
 
 * [Wild Blueberry Yield: ](Skill-Based-Projects/Machine-Learning/EDA_and_DataViz/Seaborn/Notebooks/wild-blueberry-yield.ipynb) Exploratory analysis on the yield data of wild blueberries to create predicive model to predict the yields.
 
-* [India by Numbers: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/tree/main/Skill-Based-Projects/Machine-Learning/EDA_and_DataViz/Matplotlib) Data analysis and visualization using matplotlib on World Banks data of Inidian economy and population.
+* [E-commerce Clickstream Data Analysis: ](Skill-Based-Projects/Machine-Learning/EDA_and_DataViz/Seaborn/Notebooks/clickStream-mongo-db.ipynb) Data analysis and visualization using seaborn on E-commerce company's clickstream data using **Mongo DB**.
 
 ---
 
