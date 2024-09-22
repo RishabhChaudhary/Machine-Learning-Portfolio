@@ -2,7 +2,7 @@
 
 ## End-to-End Projects ##
 
-* [Quering the Documents using OpenAI API](https://github.com/RishabhChaudhary/AskDaVinci) **Django** application to query the documents using **OpenAI api** with user management.
+* [Quering the Documents using OpenAI API](https://github.com/RishabhChaudhary/AskDaVinci) **Django** application to query the documents using `OpenAI api` with user management.
 
 ## Skill-Based Projects ##
 
@@ -12,7 +12,7 @@
 
 * [Wild Blueberry Yield: ](Skill-Based-Projects/Machine-Learning/EDA_and_DataViz/Seaborn/Notebooks/wild-blueberry-yield.ipynb) Exploratory analysis on the yield data of wild blueberries to create predicive model to predict the yields.
 
-* [E-commerce Clickstream Data Analysis: ](Skill-Based-Projects/Machine-Learning/EDA_and_DataViz/Seaborn/Notebooks/clickStream-mongo-db.ipynb) Data analysis and visualization using seaborn on E-commerce company's clickstream data using **Mongo DB**.
+* [E-commerce Clickstream Data Analysis: ](Skill-Based-Projects/Machine-Learning/EDA_and_DataViz/Seaborn/Notebooks/clickStream-mongo-db.ipynb) Data analysis and visualization using seaborn on E-commerce company's clickstream data using `Mongo DB`.
 
 ---
 
@@ -31,19 +31,19 @@
 
 ### Time series Analysis
 
-* [Store Sales Forecasting: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/tree/main/Time-Series/Store-Sales-Forecasting) Forecasting the sales of a store using **XGB** and **LGbm** regressor.
+* [Store Sales Forecasting: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/tree/main/Time-Series/Store-Sales-Forecasting) Forecasting the sales of a store using `XGB` and `LGbm` regressor.
 * [Holt and Beyond: ](Time-Series/energy_consumption.ipynb) Forecasting the Energy Consumption.
 
 ### Deep Learning
 
 #### Classification
 
-* [Gender Classification: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/tree/main/Deep-Learning/Classification/Gender-Classification) Classifying face images as either belonging to Male(1) class or Female(0) class using **Keras**.
+* [Gender Classification: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/tree/main/Deep-Learning/Classification/Gender-Classification) Classifying face images as either belonging to Male(1) class or Female(0) class using `Keras`.
 
 ---
 
 #### Natural Language Processing 
-* [Tweet Sentiment Analysis: ](Deep-Learning/NLP/Tweet-Sentiment-Analysis) Analysing the sentiment from the tweets data to classify if a tweet is abbusive or not using different neural networs: **RNN, CNN and LSTM**.
+* [Tweet Sentiment Analysis: ](Deep-Learning/NLP/Tweet-Sentiment-Analysis) Analysing the sentiment from the tweets data to classify if a tweet is abbusive or not using different neural networs: `RNN, CNN and LSTM`.
  
 ---
 
