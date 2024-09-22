@@ -67,7 +67,7 @@
 * [Google Data Analytics Certificate](https://www.credly.com/badges/047b1f56-0fd3-49dd-b20f-dfc724f59ae0/public_url)
 
 ## Course Work
-* [Time Series in Depth: ](Course-Work/time-series-reading.ipynb) Notebook on how to work with Time Series data. Covering concepts from Simple Moving Average to Prophet and everything in between **`(Hotl's, ARIMA, SARIMA and Prophet)`**.
+* [Time Series in Depth: ](Course-Work/time-series-reading.ipynb) Notebook on how to work with Time Series data. Covering concepts from Simple Moving Average to Prophet and everything in between **`(Holt's, ARIMA, SARIMA and Prophet)`**.
 
 ## Kaggle Work
 * [Enefit - Predict Energy Behaviour of Prosumers: ](notebooks/Enefit-Predict-Energy-Behavior) Energy demand/production prediction model of prosumers to reduce energy imbalance costs.
