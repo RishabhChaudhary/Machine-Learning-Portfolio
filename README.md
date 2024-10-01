@@ -34,6 +34,10 @@
 * [Store Sales Forecasting: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/tree/main/Time-Series/Store-Sales-Forecasting) Forecasting the sales of a store using **`XGB`** and **`LGbm`** regressor.
 * [Holt and Beyond: ](Time-Series/energy_consumption.ipynb) Forecasting the Energy Consumption.
 
+### Reccomendation Systems
+
+* [Recommending Movies: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/blob/d0dec9869bc143d0d2baa161014d4916b6f66173/Recommender/recommending-movies.ipynb) Movie recommendation systems with **MovieLens** dataset using multiple techniques like **User/Item Based Collaborative Filtering**, **Matrix Factorization (SVD)**.
+
 ### Deep Learning
 
 #### Classification
