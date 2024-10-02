@@ -14,20 +14,19 @@
 
 * [E-commerce Clickstream Data Analysis: ](Skill-Based-Projects/Machine-Learning/EDA_and_DataViz/Seaborn/Notebooks/clickStream-mongo-db.ipynb) Data analysis and visualization using seaborn on E-commerce company's clickstream data using **`Mongo DB`**.
 
----
 
 #### Regression
 * [Seol Bike Sharing Demand Predition: ](Skill-Based-Projects/Machine-Learning/Regression/Seol_Bike_Sharing) Using different regression techniques to predict the of sharing bikes.
 
----
+
 
 #### Classification 
 
----
+
 
 #### Clustering 
 
----
+
 
 ### Time series Analysis
 
@@ -44,20 +43,15 @@
 
 * [Gender Classification: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/tree/main/Deep-Learning/Classification/Gender-Classification) Classifying face images as either belonging to Male(1) class or Female(0) class using **`Keras`**.
 
----
 
 #### Natural Language Processing 
 * [Tweet Sentiment Analysis: ](Deep-Learning/NLP/Tweet-Sentiment-Analysis) Analysing the sentiment from the tweets data to classify if a tweet is abbusive or not using different neural networs: **`RNN, CNN and LSTM`**.
  
----
 
 #### Spark 
 
----
 
 #### Data Modeling 
-
----
 
 ## Certificates 
 * [Applied Machine Learning - Beginner to Professional](https://courses.analyticsvidhya.com/certificates/zygdltw4of)
