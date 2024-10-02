@@ -36,7 +36,7 @@
 
 ### Reccomendation Systems
 
-* [Recommending Movies: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/blob/d0dec9869bc143d0d2baa161014d4916b6f66173/Recommender/recommending-movies.ipynb) Movie recommendation systems with **MovieLens** dataset using multiple techniques like **User/Item Based Collaborative Filtering**, **Matrix Factorization (SVD)**.
+* [Recommending Movies: ](https://github.com/RishabhChaudhary/Data-Science-Portfolio/blob/d0dec9869bc143d0d2baa161014d4916b6f66173/Recommender/recommending-movies.ipynb) Movie recommendation systems with **MovieLens** dataset using multiple techniques like **User/Item Based Collaborative Filtering**, **Matrix Factorization (SVD)** and **Content Based Recommendation**.
 
 ### Deep Learning
 
