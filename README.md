@@ -1,10 +1,14 @@
-# Data Science Portfolio  #
+# Machine Learning Portfolio  #
 
 ## End-to-End Projects ##
 
 * [Quering the Documents using OpenAI API](https://github.com/RishabhChaudhary/AskDaVinci) **Django** application to query the documents using **`OpenAI api`** with user management.
 
 ## Skill-Based Projects ##
+
+### LLM Fine Tuning
+
+### Agentic AI
 
 ### Machine Learning
 
