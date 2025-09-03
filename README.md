@@ -10,6 +10,8 @@
 
 ### Agentic AI
 
+* [Data Science Team - AI-Powered Data Science Crew](https://github.com/RishabhChaudhary/data-science-team) A sophisticated multi-agent AI system built with [CrewAI](https://crewai.com) that automates data science workflows through collaborative AI agents. This project demonstrates how AI agents can work together to plan, execute, and deliver complete data science projects from requirements to finished Jupyter notebooks.
+
 ### Machine Learning
 
 #### Exploratory Data Analysis (EDA) and Data Visulization
