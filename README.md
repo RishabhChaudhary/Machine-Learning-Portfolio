@@ -8,6 +8,8 @@
 
 ### LLM Fine Tuning
 
+* [Fine Tuning Google T5 Small Model](https://github.com/RishabhChaudhary/Machine-Learning-Portfolio/blob/main/Skill-Based-Projects/Fine-Tuning/fine_tuning_for_sumarization.ipynb) Fine tuning Google T5 small model for scientific paper summarization using **LoRA**, **QLoRA** and **Full Model Fine Tuning**.
+
 ### Agentic AI
 
 * [Data Science Team - AI-Powered Data Science Crew](https://github.com/RishabhChaudhary/data-science-team) A sophisticated multi-agent AI system built with [CrewAI](https://crewai.com) that automates data science workflows through collaborative AI agents. This project demonstrates how AI agents can work together to plan, execute, and deliver complete data science projects from requirements to finished Jupyter notebooks.
