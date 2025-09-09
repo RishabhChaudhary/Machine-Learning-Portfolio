@@ -14,6 +14,8 @@
 
 * [Data Science Team - AI-Powered Data Science Crew](https://github.com/RishabhChaudhary/data-science-team) A sophisticated multi-agent AI system built with [CrewAI](https://crewai.com) that automates data science workflows through collaborative AI agents. This project demonstrates how AI agents can work together to plan, execute, and deliver complete data science projects from requirements to finished Jupyter notebooks.
 
+* [Engineering Team - AI-Powered Engineering Team](https://github.com/RishabhChaudhary/engineering-team) An autonomous, multi-agent engineering team that plans, implements, reviews, and demos Python modules end‑to‑end using [LangGraph](https://github.com/langchain-ai/langgraph) and [LangChain](https://www.langchain.com/). The system orchestrates five Agents with roles:
+
 ### Machine Learning
 
 #### Exploratory Data Analysis (EDA) and Data Visulization
