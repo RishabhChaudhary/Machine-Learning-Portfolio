@@ -63,7 +63,9 @@
 
 #### Data Modeling 
 
-## Certificates 
+## Certificates
+* [**AWS Certified Machine Learning – Specialty**](https://www.credly.com/badges/40ce61a0-0a3f-448e-84e3-3e7b69e0217f/public_url)
+* [AWS Certified AI Practitioner](https://www.credly.com/badges/8e50fd60-2d23-44fa-b655-026d764d919b/public_url)
 * [Applied Machine Learning - Beginner to Professional](https://courses.analyticsvidhya.com/certificates/zygdltw4of)
 * [Advanced Python Programming and Software Engineering Fundamentals](https://courses.analyticsvidhya.com/certificates/k9hb4jfcg8)
 * [Fundamentals of Deep Learning](https://courses.analyticsvidhya.com/certificates/dohe1y7dw5)
